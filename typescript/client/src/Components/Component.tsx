@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Component = () => {
+export const Component = () => {
     return (
         <div
         // How do I figure out what type aria-posinset expects?
@@ -12,4 +12,3 @@ const Component = () => {
         </div>
     )
 }
-
